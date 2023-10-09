@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Meghna Pujari
 - 👀 I’m interested in coding,music.
-- 🌱 I’m currently learning big data management.
 - 📫 gmail : pujarimeghana80@gmail.com
 
 <!---
