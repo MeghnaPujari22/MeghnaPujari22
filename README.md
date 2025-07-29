@@ -4,7 +4,7 @@
 
 💻 **I build** scalable web applications with modern technologies  
 🎵 **Passionate about** coding and music production  
-🌱 **Currently learning** advanced React patterns and cloud architecture  
+🌱 **Currently learning** React and Nodejs 
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
